@@ -21,7 +21,36 @@
 |Remove|코드(파일) 의 삭제가 있을 때. "Clean", "Eliminate" 를 사용하기도 함|
 
 
-# ✅ PR Rule
+# ✅ 구현
 
-# ✅ Code Review Rule
+## 메인 페이지
+- 카드 형식의 게시판
+- 모든 유저의 모집 공고 표시
 
+## 로그인 페이지
+- 일반 로그인
+- 소셜 로그인
+
+## 마이페이지
+- 회원정보관리
+- 모집 혹은 신청 중인 공고 목록 조회
+- 팀 페이지 연동
+- 공고 지원에 대한 알림 기능
+
+## 모집 공고(게시글)
+- 모집 게시글 작성, 수정, 삭제
+- 댓글 기능
+
+## 팀 페이지
+- 팀 정보
+- 일정표
+- 회의록
+- 팀 & 팀원 관리
+
+# ✅ ERD
+[링크](https://www.erdcloud.com/d/m4qHybJJ6brDwvGf8)
+
+# ✅ 팀원
+|               seandoesdev                  |            sonchanhyeok          |hyyewon        |ChoiSeonJun            |milkteabread|
+|:---------:|:----------:|:-----:|:---------:|:----------:|
+| <a href="https://github.com/seandoesdev"> <img src="https://avatars.githubusercontent.com/u/122565412?v=4" width=100px alt="_"/> </a> | <a href="https://github.com/sonchanhyeok"> <img src="https://avatars.githubusercontent.com/u/87889071?v=4" width=100px alt="_"/> </a> | <a href="https://github.com/hyyewon"> <img src="https://avatars.githubusercontent.com/u/139234542?v=4" width=100px alt="_"/> </a> | <a href="https://github.com/ChoiSeonJun"> <img src="https://avatars.githubusercontent.com/u/138845013?v=4" width=100px alt="_"/> </a> | <a href="https://github.com/milkteabread"> <img src="https://avatars.githubusercontent.com/u/98167564?v=4" width=100px alt="_"/> </a>
